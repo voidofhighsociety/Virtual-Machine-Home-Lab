@@ -21,46 +21,43 @@ In this lab, I set up four virtual machines using Oracle VirtualBox: one Windows
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Setup Elastic Account: <br/>
-<img src="https://i.imgur.com/K7h238x.png" height="80%" width="80%" alt="SIEM Lab Steps"/>
+Download virtual Box: <br/>
+<img src="https://i.imgur.com/UtVXnSE.png" height="80%" width="80%" alt="VM Lab Steps"/>
 <br />
 <br />
-Download Kali VM:  <br/>
-<img src="https://i.imgur.com/AP0w2ka.png" height="80%" width="80%" alt="SIEM Lab Steps"/>
+Download Media Creation Tool and create Windows 10 ISO: <br/>
+<img src="https://i.imgur.com/MMPTKVP.png" height="80%" width="80%" alt="VM Lab Steps"/>
 <br />
 <br />
-Download Virtual Box: <br/>
-<img src="https://i.imgur.com/bZwzmSP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download prebuilt Kali VM: <br/>
+<img src="https://i.imgur.com/4mXOh04.png" height="80%" width="80%" alt="VM Lab Steps"/>
 <br />
 <br />
-Add Kali VM to Virtual Box:  <br/>
-<img src="https://i.imgur.com/K6Ez3NW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download Windows 2022 Server ISO: <br/>
+<img src="https://i.imgur.com/4Bqsx9d.png" height="80%" width="80%" alt="VM Lab Steps"/>
 <br />
 <br />
-Setup Defend Inetgration on Elastic and add to Kali VM:  <br/>
-<img src="https://i.imgur.com/LCfeybq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download Ubuntu ISO: <br/>
+<img src=https://i.imgur.com/cc6rlF2.png"" height="80%" width="80%" alt="VM Lab Steps"/>
 <br />
 <br />
-Check Status:  <br/>
-<img src="https://i.imgur.com/R2UeFEu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create and config New VMs in Virtual box: <br/>
+<img src="https://i.imgur.com/J3QiuR7.png" height="80%" width="80%" alt="VM Lab Steps"/>
 <br />
 <br />
-Run Nmap command:  <br/>
-<img src="https://i.imgur.com/xZ24ifF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install and update Windows 10 within VM: <br/>
+<img src="https://i.imgur.com/BpVTISW.png" height="80%" width="80%" alt="VM Lab Steps"/>
 <br />
 <br />
-Check logs on Elastic stack:  <br/>
-<img src="https://i.imgur.com/ZTH550X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install and update Windows Server 2022 wintin VM: <br/>
+<img src="https://i.imgur.com/c3sU4HF.png" height="80%" width="80%" alt="VM Lab Steps"/>
 <br />
 <br />
-Create Visualization:  <br/>
-<img src="https://i.imgur.com/j27tKZl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install and update Ubuntu within VM: <br/>
+<img src="https://i.imgur.com/eLM30nR.png" height="80%" width="80%" alt="VM Lab Steps"/>
 <br />
 <br />
-Create Rule:  <br/>
-<img src="https://i.imgur.com/luykfwP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Create Email Alert:  <br/>
-<img src="https://i.imgur.com/UEWJTDc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Start prebuilt kali VM and update to complete Lab: <br/>
+<img src="https://i.imgur.com/j3XGSSl.png" height="80%" width="80%" alt="VM Lab Steps"/>
+  
 </p>
